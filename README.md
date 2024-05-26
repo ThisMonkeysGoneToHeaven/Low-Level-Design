@@ -5,19 +5,19 @@
 <h3>TicTacToe</h3>
 <h3>SnakeGame</h3>
 
-<br><br>
+<br>
 
 <h2>What is Low Level Design</h2>
 
 <h4>In brief, it's the process of taking requirements and converting it into code (rather design of code than code itself).</h4>
 
-<h3>Process</h3>
+<br><h2>Process</h2>
 
-<h4>Use-Case Diagram</h4>
-<h4>Class Diagram</h4>
-<h4>Activity Diagram (only for complex designs)</h4>
+<h4>-> Use-Case Diagram</h4>
+<h4>-> Class Diagram</h4>
+<h4>-> Activity Diagram (only for complex designs)</h4>
 
-<h3>
+<br><h2>Key aspects of LLD</h2>
 
 <h4>-> Data structures: Defines the way data will be organized within the system (e.g., lists, trees, etc.).
 </h4>
