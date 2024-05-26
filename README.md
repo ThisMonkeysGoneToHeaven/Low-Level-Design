@@ -1,8 +1,10 @@
 # Getting into Low Level Design
 
-## TicTacToe
 
-## SnakeGame
+<h3>TicTacToe</h3>
+<h3>SnakeGame</h3>
+
+<br>
 
 <h2>What is Low Level Design</h2>
 
