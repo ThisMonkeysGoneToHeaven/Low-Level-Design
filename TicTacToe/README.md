@@ -1,3 +1,3 @@
 # TicTacToe
 
-![TicTacToe - Use Case](https://github.com/ThisMonkeysGoneToHeaven/Low-Level-Design/assets/32913413/74ccda21-4004-4c41-a9dc-1be30795976f)
+![TicTacToe - Use Case](https://github.com/ThisMonkeysGoneToHeaven/Low-Level-Design/assets/32913413/5874f3f2-b9e1-4101-80d9-450a0a501636)
