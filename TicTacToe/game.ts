@@ -1,21 +1,9 @@
-enum BOARD_STATUS{
-    PLAYER_1_WINS,
-    PLAYER_2_WINS,
-    DRAW,
-    UNDECIDED
+class Game{
+
+    constructor(){
+        // set up the canvas
+        // player initialise
+        // board initialise
+    }
+
 }
-
-enum PIECES{
-    ZERO,
-    CROSS
-}
-
-enum CELL_VALUES{
-    EMPTY,
-    ZERO,
-    CROSS
-}
-
-/*
-
-*/
